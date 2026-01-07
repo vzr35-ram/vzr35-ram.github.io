@@ -1,3 +1,7 @@
 # vzr35-ram.github.io
 
-## Temporary hosting for Intro to Data Visualization, a0
+My name is Varun Ramamurthi, and I'm a final semester senior from San Francisco, California, majoring in computer science with a concentration in economics. I'm passionate about 1) studying great technology businesses, 2) composing, singing, and listening to music, and 3) learning about the world around me through books, podcasts, and news. In June, I'll be joining Evercore's investment banking business in New York, with a career goal to build, grow, and operate a business in the next 5-15 years. 
+
+With this in mind, here's why I think Intro to Data Visualization is such an interesting and timely course for me. I've always had an appreciation for good design: my mother was an aspiring architect before pivoting to a career in technology marketing, and so I grew up going to museums, flipping through her copies of Tufte's "Envisioning Information" and "Beautiful Evidence", and strolling San Francisco's timeless architecture. Picking up an iPad for the first time, ordering my first Uber: these are also moments that stuck with me growing up, not solely for their novelty, but for their beauty.
+
+Crafting my own design philosophy is a big goal for me, especially as I focus on building my written and oral communication skills in college. Practically speaking, my demand for this class comes from wanting to learn how to use data to tell a story. The best are able to seamlessly unite aesthetics and information with clarity, detail, and restraint. I hope I can begin to learn how to grapple with these ideas in this course.
